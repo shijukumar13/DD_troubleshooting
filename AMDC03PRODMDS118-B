@@ -1,0 +1,16 @@
+AMDC03PRODMDS118-B# sh flogi database | grep -i fc2/38
+fc2/38           1004  0x760e22  50:02:18:84:4d:71:16:7a 50:02:18:80:4d:60:16:7a
+fc2/38           1004  0x760ec0  50:02:18:80:4d:71:17:b1 50:02:18:80:4d:60:17:b1
+AMDC03PRODMDS118-B# sh flogi database | grep -i fc3/38
+fc3/38           1004  0x760e42  50:02:18:84:4d:73:16:7a 50:02:18:80:4d:60:16:7a
+fc3/38           1004  0x760ea0  50:02:18:80:4d:73:17:b1 50:02:18:80:4d:60:17:b1
+AMDC03PRODMDS118-B# sh flogi database | grep -i fc4/38
+fc4/38           1004  0x760e62  50:02:18:84:4d:75:16:7a 50:02:18:80:4d:60:16:7a
+fc4/38           1004  0x760e80  50:02:18:80:4d:75:17:b1 50:02:18:80:4d:60:17:b1
+AMDC03PRODMDS118-B# sh flogi database | grep -i fc2/40
+fc2/40           1004  0x760e20  50:02:18:88:4d:61:16:7a 50:02:18:80:4d:60:16:7a
+AMDC03PRODMDS118-B# sh flogi database | grep -i fc3/40
+fc3/40           1004  0x760e40  50:02:18:89:4d:61:16:7a 50:02:18:80:4d:60:16:7a
+AMDC03PRODMDS118-B# sh flogi database | grep -i fc4/40
+fc4/40           1004  0x760e60  50:02:18:8b:4d:61:16:7a 50:02:18:80:4d:60:16:7a
+
