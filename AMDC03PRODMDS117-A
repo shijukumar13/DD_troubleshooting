@@ -4,6 +4,26 @@ Hardware
   Processor Board ID JAE18280JLW
   Device name: AMDC03PRODMDS117-A
    System version: 6.2(17)
+   
+   VSAN 1003
+The local switch is a Subordinated Switch.
+
+Local switch run time information:
+        State: Stable
+        Local switch WWN:    23:eb:00:2a:6a:db:f9:81
+        Running fabric name: 23:eb:00:2a:6a:db:b4:01
+        Running priority: 117
+        Current domain ID: 0x75(117) 
+
+Local switch configuration information:
+        State: Enabled
+        FCID persistence: Enabled
+        Auto-reconfiguration: Disabled
+        Contiguous-allocation: Disabled
+        Configured fabric name: 20:01:00:05:30:00:28:df
+        Optimize Mode: Enabled (Scale Restart)
+        Configured priority: 117
+        Configured domain ID: 0x75(117) (static) 
 --------------------------------
 DD node 2659 - active :  
 sysadmin@AMDC03EMCDD98002659(active:1)# system show date
