@@ -26,3 +26,8 @@ fc3/40           1004  0x760e40  50:02:18:89:4d:61:16:7a 50:02:18:80:4d:60:16:7a
 AMDC03PRODMDS118-B# sh flogi database | grep -i fc4/40
 fc4/40           1004  0x760e60  50:02:18:8b:4d:61:16:7a 50:02:18:80:4d:60:16:7a
 
+
+AMDC03PRODMDS118-B# show clock
+Time source is NTP
+07:54:19.153 CDT Mon Aug 19 2019
+
