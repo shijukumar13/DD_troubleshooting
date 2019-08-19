@@ -1,4 +1,11 @@
-2659 - active :  
+Hardware
+  cisco MDS 9710 (10 Slot) Chassis ("Supervisor Module-3")
+  Intel(R) Xeon(R) CPU         with 8167940 kB of memory.
+  Processor Board ID JAE18280JLW
+  Device name: AMDC03PRODMDS117-A
+   System version: 6.2(17)
+--------------------------------
+DD node 2659 - active :  
 sysadmin@AMDC03EMCDD98002659(active:1)# system show date
 Mon Aug 19 07:53:56 CDT 2019
 --------------------------------------------------------------------
